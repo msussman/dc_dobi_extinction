@@ -110,3 +110,7 @@ venv.bak/
 *.png
 
 *.txt
+
+*.html
+
+plots/timeline\.jpeg
